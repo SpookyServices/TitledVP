@@ -7,6 +7,10 @@ DO NOT REMOVE CREDITS
 
 THIS CODE IS OPEN SOURCED AT 
 https://github.com/SpookyServices/TitledVP/
+
+THIS CODE IS LICENSED UNDER the
+BSD 3-Clause License
+
 */
 document.querySelector("#lnkHeaderHome").setAttribute('href', `?`);
 if (document.getElementById('pageHeading')) {
