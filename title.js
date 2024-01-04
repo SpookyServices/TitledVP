@@ -12,7 +12,6 @@ THIS CODE IS LICENSED UNDER the
 BSD 3-Clause License
 
 */
-document.querySelector("#lnkHeaderHome").setAttribute('href', `?`);
 if (document.getElementById('pageHeading')) {
     if ((typeof panel_name != "undefined") && (typeof panel_name == "string")) {
         document.title = document.getElementById('pageHeading').innerHTML + " - " + panel_name;
