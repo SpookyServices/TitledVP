@@ -18,4 +18,3 @@ Will set the title as `Page Name - Not cPanel`
 ## Hosted CDN
 You can use both of the following ones:
 1. https://titledvp.pages.dev/title.js
-2. https://titledvp.cdn.spookykip.xyz/title.js
