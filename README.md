@@ -11,7 +11,7 @@ Example:
 <script>
 panel_name = "Not cPanel";
 </script>
-<script src="https://titledvp.cdn.spookykip.xyz/title.js"></script>
+<script src="https://titledvp.pages.dev/title.js"></script>
 ```
 Will set the title as `Page Name - Not cPanel`
 
